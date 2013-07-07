@@ -1,7 +1,7 @@
 PlaceHodor
 ==========
 
-Not your grandpa's Lorum Ipsum generator.
+Not your grandpa's Lorem Ipsum generator.
 
 About
 -----
