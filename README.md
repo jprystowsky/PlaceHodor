@@ -16,7 +16,7 @@ Architecture
 PlaceHodor is a RESTful service built on JAX-RS. To ease boilerplating and make things flexible, it uses
 [Google Guice](code.google.com/p/google-guice/) for <abbr title="dependency injection">DI</abbr>. Data transfer
 mapping is provided by [Google Gson](code.google.com/p/google-gson/). It uses
-(Apache Commons Lang)[https://commons.apache.org/proper/commons-lang/] in a couple places for string manipulation.
+[Apache Commons Lang](https://commons.apache.org/proper/commons-lang/) in a couple places for string manipulation.
 
 Design
 ------
